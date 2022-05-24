@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: skyblue;
 	color: inherit;
 }
 
@@ -1882,7 +1882,7 @@ input, select, textarea {
 /* Icon */
 
 	.icon {
-		text-decoration: none;
+		text-decoration: underline overline dotted skyblue;
 		position: relative;
 	}
 
